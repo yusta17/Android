@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">listaCompra</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Lista de la compra</string>
+    <string name="mensajeInicio">Pulsa un rato un articulo del listado para modificarlo o eliminarlo.
+        Tambien puedes usar el menu para añadir un elemento nuevo. </string>
+	<color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+	<color name="grey">#585858</color>
+	<color name="red">#FF0000</color>
+	<color name="green">#51E851</color>
+</resources>
